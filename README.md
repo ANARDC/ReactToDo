@@ -1,3 +1,9 @@
+Работу выполнил Дадашов Анар, ПИ3-2
+Работа представляет собой React-приложение для создания, удаления задач и просмотра списка задач
+
+
+### React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
