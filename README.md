@@ -2,6 +2,7 @@
 Работу выполнил Дадашов Анар, ПИ3-2
 Работа представляет собой React-приложение для создания, удаления задач и просмотра списка задач
 
+![alt text](https://sun1-47.userapi.com/nx8kBNxd9qyLITF8z-v0-Lsn63IGKxjIJB-8VA/-9KaP_uKfaY.jpg)
 
 # React
 
