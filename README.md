@@ -1,2 +1,2 @@
 # ReactToDo
-ToDo Web-app created with React.js
+ToDo web-app created with React.js
